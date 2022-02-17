@@ -1,0 +1,8 @@
+C:\Users\Monica\Documents\GitHub\PruebaMady\PruebaMady\PruebaMady\bin\Debug\PruebaMady.exe.config
+C:\Users\Monica\Documents\GitHub\PruebaMady\PruebaMady\PruebaMady\bin\Debug\PruebaMady.exe
+C:\Users\Monica\Documents\GitHub\PruebaMady\PruebaMady\PruebaMady\bin\Debug\PruebaMady.pdb
+C:\Users\Monica\Documents\GitHub\PruebaMady\PruebaMady\PruebaMady\obj\Debug\PruebaMady.csproj.AssemblyReference.cache
+C:\Users\Monica\Documents\GitHub\PruebaMady\PruebaMady\PruebaMady\obj\Debug\PruebaMady.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monica\Documents\GitHub\PruebaMady\PruebaMady\PruebaMady\obj\Debug\PruebaMady.csproj.CoreCompileInputs.cache
+C:\Users\Monica\Documents\GitHub\PruebaMady\PruebaMady\PruebaMady\obj\Debug\PruebaMady.exe
+C:\Users\Monica\Documents\GitHub\PruebaMady\PruebaMady\PruebaMady\obj\Debug\PruebaMady.pdb
